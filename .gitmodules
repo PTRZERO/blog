@@ -1,3 +1,3 @@
-[submodule "themes/peomas"]
-	path = themes/peomas
-	url = https://github.com/PTRZERO/hexo-theme-peomas.git
+[submodule "themes/typo"]
+	path = themes/typo
+	url = https://github.com/PTRZERO/hexo-theme-typo.git
